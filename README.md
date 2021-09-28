@@ -1,6 +1,6 @@
 # instructions
 
-## clone repo locally and run docker compose
+## this docker assembly consists of linux , ngnix , mysql and php stacks to deploy web applications. you can clone repo locally and run docker compose
 >docker compose up -d
 ## verify docker images 
 >docker images
